@@ -1,0 +1,24 @@
+.center-box {
+    max-width: 500px;
+    margin: 22.5% auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  .center-box {
+    background-color: rgba(255, 255, 255, 0.8); /* Slight transparency for the background */
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .bg-img {
+    background-image: url('https://wallpapercave.com/wp/wp12443425.jpg'); /* Replace with your actual image URL */
+    background-size: cover; /* Ensure the image covers the entire div */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Avoid repeating the image */
+    height: 100vh; /* Full viewport height */
+    width: 100%; /* Full width */
+  }
+  
+  
